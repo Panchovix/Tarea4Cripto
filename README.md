@@ -1,6 +1,8 @@
 # Tarea4Cripto
 Códigos y archivos utilizados para la Tarea 4 de Cifrado Asimétrico, con ECC-ECDH-AES
 
+Dentro de la carpeta Hasheo están los archivos que se usaron en el proceso.
+
 También se agregan los archivos al realizar un ejemplo outdecrypted1.txt, outencrypted1.txt y output1.txt
 
 output1.txt es el archivo 1 hasheado con SHAKE256
